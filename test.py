@@ -1,4 +1,6 @@
 print("Hello")
-print("Adding a line")
+print("There")
+print("General Kenobi")
+
 arr = [1,2,3,4,5]
 arr.append(3)
