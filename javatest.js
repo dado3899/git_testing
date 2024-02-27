@@ -5,7 +5,12 @@ function updateUser(){
     console.log("update User")
 }
 
+// Branch 1 change
+function login(){
+    // do login here
+    console.log("logging in")
+}
 function logout(){
-    // My shitty logout
-    console.log("DEFINITELY NOT LOGGING OUT")
+    // do logout here
+    console.log("Logging out")
 }
